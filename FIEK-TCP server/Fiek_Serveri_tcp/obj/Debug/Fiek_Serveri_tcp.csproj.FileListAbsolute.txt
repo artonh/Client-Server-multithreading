@@ -1,0 +1,27 @@
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Fiek_Serveri_tcp\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Fiek_Serveri_tcp\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Fiek_Serveri_tcp\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Fiek_Serveri_tcp\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Fiek_Serveri_tcp\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Fiek_Serveri_tcp\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.csprojResolveAssemblyReference.cache
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe.config
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe.config
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe.config
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.exe
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.pdb
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.exe
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\bin\Debug\Fiek_Serveri_tcp.pdb
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP server\Fiek_Serveri_tcp\obj\Debug\Fiek_Serveri_tcp.csprojResolveAssemblyReference.cache

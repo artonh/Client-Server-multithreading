@@ -1,0 +1,9 @@
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Release\FIEK-TCP klienti WFORM.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Release\FIEK-TCP klienti WFORM.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Release\FIEK-TCP klienti WFORM.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Release\FIEK_TCP_klienti_WFORM.Klienti.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Release\FIEK_TCP_klienti_WFORM.Kycja.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Release\FIEK_TCP_klienti_WFORM.Properties.Resources.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Release\FIEK-TCP klienti WFORM.csproj.GenerateResource.Cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Release\FIEK-TCP klienti WFORM.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Release\FIEK-TCP klienti WFORM.pdb

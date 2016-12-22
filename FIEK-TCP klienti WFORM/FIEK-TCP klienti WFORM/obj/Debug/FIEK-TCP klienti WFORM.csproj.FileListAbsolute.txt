@@ -1,0 +1,34 @@
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Properties.Resources.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.csproj.GenerateResource.Cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Kycja.resources
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Klienti.resources
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.exe.config
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.csprojResolveAssemblyReference.cache
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.exe.config
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.csprojResolveAssemblyReference.cache
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Klienti.resources
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Properties.Resources.resources
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.csproj.GenerateResource.Cache
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Kycja_Fillestare.resources
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.exe.config
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.exe
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.pdb
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.exe
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\bin\Debug\FIEK-TCP klienti WFORM.pdb
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Klienti.resources
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Kycja_Fillestare.resources
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK_TCP_klienti_WFORM.Properties.Resources.resources
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-TCP klienti WFORM\FIEK-TCP klienti WFORM\obj\Debug\FIEK-TCP klienti WFORM.csproj.GenerateResource.Cache

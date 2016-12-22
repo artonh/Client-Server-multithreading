@@ -1,0 +1,30 @@
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp\Serveri_udp\bin\Debug\Serveri_udp.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp\Serveri_udp\bin\Debug\Serveri_udp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp\Serveri_udp\bin\Debug\Serveri_udp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp\Serveri_udp\obj\Debug\Serveri_udp.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp\Serveri_udp\obj\Debug\Serveri_udp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp\Serveri_udp\obj\Debug\Serveri_udp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp - Copy\Serveri_udp\bin\Debug\Serveri_udp.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp - Copy\Serveri_udp\obj\Debug\Serveri_udp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp - Copy\Serveri_udp\obj\Debug\Serveri_udp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp - Copy\Serveri_udp\bin\Debug\Serveri_udp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp - Copy\Serveri_udp\bin\Debug\Serveri_udp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\Serveri_udp - Copy\Serveri_udp\obj\Debug\Serveri_udp.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.exe.config
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.exe
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.pdb
+C:\Users\CCKS\Documents\Visual Studio 2012\Projects\Rrjeta kompjterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.csprojResolveAssemblyReference.cache
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.exe.config
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\Ushtrime\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.exe.config
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.exe
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.pdb
+D:\Fakulteti - mesime\viti II\Semestri IV\Rrjetet kompjuterike\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.csprojResolveAssemblyReference.cache
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\bin\Debug\Serveri_udp.exe.config
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.exe
+C:\Users\CCKS\Desktop\ARTON_HOTI_p1\FIEK-UDP server\Serveri_udp\obj\Debug\Serveri_udp.pdb
