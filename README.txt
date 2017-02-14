@@ -1,6 +1,6 @@
 Objektivat e programimit te ketij projekti jane qe te behet dizajnimi, implementimi dhe testimi i programit klient dhe server qe te implementohet ne versionet TCP dhe UDP. Testimi perfshin testimin e TCP klientit dhe UDP klientit me serverin perkates. 
 Protokolli FIEK eshte nje protokoll shume i thjeshte qe i lejon klientit dhe serverit t’i testoj lidhjet e tyre. Ky nuk eshte nje protokoll standard, eshte TCP versioni i cili quhet FIEK-TCP dhe UDP versioni i cili quhet FIEK-UDP.
-Programi eshte i thjeshte, permbane MultiLanguage dhe info te nevojshme per shfrytezim sa me te lehte.
+Programi eshte i thjeshte, permbane info te nevojshme per shfrytezim sa me te lehte.
 
 Si  punon  serveri 
 Serveri e lexon kerkesen nga lidhja qe krijon me klientin nepermejt socket-it.
